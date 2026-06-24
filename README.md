@@ -5,8 +5,8 @@
 A premium skeleton loading showcase inspired by modern applications like YouTube, Netflix, Amazon, and SaaS dashboards.
 
 "Version" (https://img.shields.io/badge/version-1.0-blue)
-"HTML" (https://img.shields.io/badge/HTML5-orange)
-"CSS" (https://img.shields.io/badge/CSS3-blue)
+"HTML5" (https://img.shields.io/badge/HTML5-orange)
+"CSS3" (https://img.shields.io/badge/CSS3-blue)
 "JavaScript" (https://img.shields.io/badge/JavaScript-yellow)
 "Status" (https://img.shields.io/badge/status-Frontend_UI-success)
 
@@ -16,7 +16,7 @@ A premium skeleton loading showcase inspired by modern applications like YouTube
 
 Skeleton Loader Pro is a modern frontend project designed to demonstrate how professional applications handle loading states.
 
-Instead of displaying traditional loading spinners, this project uses animated skeleton placeholders that visually represent the content before it loads.
+Instead of displaying traditional loading spinners, this project uses animated skeleton placeholders that visually represent content before it loads.
 
 This creates a smoother, faster, and more engaging user experience.
 
@@ -113,7 +113,7 @@ Skeleton loaders provide:
 
 📸 Preview
 
-Add screenshots or GIFs here.
+Add screenshots or GIF previews here.
 
 ![Preview](preview.png)
 
@@ -138,24 +138,16 @@ Open-source and available for learning, customization, and personal use.
 
 ⭐ Support
 
-If you like this project, consider giving it a star on GitHub.
+If you like this project, consider giving it a ⭐ on GitHub.
 
-Every ⭐ motivates future projects and improvements.
+Every star motivates future improvements and new projects.
 
 ---
 
 ❤️ Built With
 
-HTML5 • CSS3 • JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
-## 📂 Project Structure
-
-```text
-Skeleton-Loader-Pro/
-│
-├── index.html
-├── style.css
-├── animation.css
-├── script.js
-└── README.md
-```
+Made with ❤️ and lots of coffee ☕
