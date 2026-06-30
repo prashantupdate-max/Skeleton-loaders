@@ -1,6 +1,6 @@
 # ⚡ Skeleton Loader Pro
 
-### 🧩 Modern Skeleton Screens Built With HTML, CSS & JavaScript
+### 🧩 Modern Skeleton Screens Built With HTML, CSS & JavaScript.
 
 A beautiful collection of animated skeleton loaders inspired by modern applications like YouTube, Netflix, Amazon, and Dashboard Interfaces.
 
