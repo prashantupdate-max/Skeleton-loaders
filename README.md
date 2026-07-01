@@ -20,6 +20,5 @@ A collection of **5 modern skeleton loaders** built using **HTML & CSS**, inspir
 - 📱 Social Post Skeleton
 - 📰 Medium Article Skeleton
 
----
 
 ### ⭐ If you like this project, don't forget to **Star** the repository!
