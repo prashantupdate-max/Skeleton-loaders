@@ -25,15 +25,6 @@ A collection of **5 modern skeleton loaders** built using **HTML & CSS**, inspir
 
 ---
 
-## 🛠️ Built With
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html" height="45">
-  <img src="https://skillicons.dev/icons?i=css" height="45">
-</p>
-
----
-
 <p align="center">
   <b>Simple • Clean • Responsive</b>
 </p>
